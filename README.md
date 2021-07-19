@@ -6,16 +6,45 @@ A Web Application used to transfer money between the users users (Project contai
 
 
 Stack used -
+--------------------
+
 Front-end : HTML, CSS, Bootstrap & Javascript 
+
 Back-end : PHP 
+
 Database : MySQL   
 
+Server : XAMPP 
+
 Database contains two Tables- Users Table & Transaction Table 
+---------------------------------------------------------------
 1. User table have basic fields such as name, email & current balance. 
 2. Transaction table records all transfers happened along with their time.  
 
 Flow of the Website:
-              Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
+-------------------------------
+Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
+          
+              
+              
+        
+
+*******  To Run This Project Following Software Needs To Be Installed **********
+
+XAMPP Download Link: https://www.apachefriends.org/ Download XAMP Setup according your system configuration Install The Setup
+-------------------------------------------------------------------------------------------------------------------------------
+
+Visual Studio Download Link: https://code.visualstudio.com/download
+-------------------------------------------------------------------------
+
+        OR
+        
+Notepad++ Download Link: https://notepad-plus-plus.org/downloads/
+-------------------------------------------------------------------------
+
+         OR
+Sublime Text Download Link: https://www.sublimetext.com/  
+----------------------------------------------------------------
 
 The apache server was set to run on port 8080 of localhost. and mysql was set on port 3306.
 
